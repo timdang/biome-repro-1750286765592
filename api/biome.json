@@ -1,6 +1,6 @@
 {
-	"extends": "//",
-	"linter": {
-		"enabled": true
-	}
+  "extends": "//",
+  "linter": {
+    "enabled": true
+  }
 }
